@@ -29,7 +29,7 @@ Pod::Spec.new do |s|
   s.dependency 'mob_sharesdk/ShareSDKPlatforms/GooglePlus'
   s.dependency 'TTTAttributedLabel'
   s.dependency 'SAMKeychain'
-  s.dependency 'lottie-ios', '~> 3.1.8'
+  s.dependency 'lottie-ios', '3.1.8'
   s.dependency 'RSAEncrypt'
   s.dependency 'Bugly'
   s.dependency 'SnapKit', '~> 4.0.0'
