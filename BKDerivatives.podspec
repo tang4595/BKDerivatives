@@ -54,14 +54,14 @@ Pod::Spec.new do |s|
   #s.dependency 'FingerprintJS', '~> 1.2.0'
   
   #bkex
-  s.dependency 'BKLine', :git => 'https://github.com/tang4595/BKLine.git', :branch => 'master'
+  s.dependency 'BKLine'
   
   #third-party frameworks
-  s.dependency 'GTCaptcha4', :git => 'https://github.com/tang4595/GTCaptcha4.git', :branch => 'master'
-  s.dependency 'ApiGatewaySdk', :git => 'https://github.com/tang4595/ApiGatewaySdk.git', :branch => 'master'
-  s.dependency 'WSAPM', :git => 'https://github.com/tang4595/WSAPM.git', :branch => 'master'
-  s.dependency 'SDVersion', :git => 'https://github.com/tang4595/SDVersion.git', :branch => 'master'
-  s.dependency 'WebViewJavascriptBridge', :modular_headers => true, :git => 'https://github.com/tang4595/WebViewJavascriptBridge.git', :branch => 'master'
+  s.dependency 'GTCaptcha4'
+  s.dependency 'ApiGatewaySdk'
+  s.dependency 'WSAPM'
+  s.dependency 'SDVersion'
+  s.dependency 'WebViewJavascriptBridge'
 
 end
 
