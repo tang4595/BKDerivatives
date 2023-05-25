@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
   s.author       = { "lib" => "lib@lib.com" }
   s.source       = { :git => "http://gitlab.lib.io/mobile/mobile-lib-ios.git", :tag => $version }
-  s.platform     = :ios, "12.0"
+  s.platform     = :ios, "11.0"
 
   s.resource     = ['Library/Resource/*']
   s.vendored_frameworks = 'Library/BKDerivatives.framework'
