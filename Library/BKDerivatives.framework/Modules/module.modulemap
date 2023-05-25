@@ -1,0 +1,4 @@
+framework module BKDerivatives {
+  header "BKDerivatives-Swift.h"
+  requires objc
+}
