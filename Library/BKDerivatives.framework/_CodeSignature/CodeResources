@@ -480,7 +480,7 @@
 		</data>
 		<key>Modules/BKDerivatives.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		fo7G59cDOmYfO1HD0SWcccVvyaw=
+		1qh2vq5VOYjMIzazSkSPduWVn1s=
 		</data>
 		<key>Modules/BKDerivatives.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -550,7 +550,7 @@
 		</data>
 		<key>ShareSDK.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		3girx8ozlBT9dE93ixzgC2oEG78=
+		5pJLpULjW8mG09TULunbiMwU4yg=
 		</data>
 		<key>ShareSDK.bundle/en.lproj/ShareSDK.strings</key>
 		<dict>
@@ -614,7 +614,7 @@
 		</data>
 		<key>ShareSDK_JS_Facebook.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		hxt8kkfZFGCp6goXGZ5U7WacWb0=
+		bNCCxWnF/MlYdB4c2zfoCHbQ45s=
 		</data>
 		<key>ShareSDK_JS_GooglePlus.bundle/GooglePlus.js</key>
 		<data>
@@ -642,7 +642,7 @@
 		</data>
 		<key>ShareSDK_JS_GooglePlus.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		XGwxa60/+g3oU4tAMTHd4WwMfn4=
+		EyBqxcTI1qGvzANef6Y8Tl19COc=
 		</data>
 		<key>ShareSDK_JS_Telegram.bundle/Info.plist</key>
 		<data>
@@ -670,7 +670,7 @@
 		</data>
 		<key>ShareSDK_JS_Telegram.bundle/_CodeSignature/CodeSignature</key>
 		<data>
-		OFI3cuDYvTccGKVh4Om5m9zbt+w=
+		r0Vd5FoknH+kv33IwYVFnFh0bZQ=
 		</data>
 		<key>WSAPM.bundle/BundleInfo.plist</key>
 		<data>
@@ -4479,7 +4479,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3UzlzrbHeI1FuVikRcjDWxdBnVZNkh19To6a5FffAjA=
+			TP8EQukdnsD8IcHxbDoBaKktcEfeZCBMmbppBmYVCJQ=
 			</data>
 		</dict>
 		<key>Modules/BKDerivatives.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -4588,7 +4588,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7nreF83qNYmR24HeoZu/Mzwb6ea2OrCegVJK75Fo1FY=
+			vRQf9oMmctoMdQIeHWLnB8zv1iaFZzyCjwW+V+QVxkk=
 			</data>
 		</dict>
 		<key>ShareSDK.bundle/en.lproj/ShareSDK.strings</key>
@@ -4673,7 +4673,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			H/QwlmjZJef4nnBHZf26nC25H5ynaVUN1NTffFJxpJk=
+			3+HV8GwhjPNnyeaM8Rd7IWtmmr5yMjUdR2nWa1IIftA=
 			</data>
 		</dict>
 		<key>ShareSDK_JS_GooglePlus.bundle/GooglePlus.js</key>
@@ -4722,7 +4722,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lpaqLhEHO1IRmTNdVKw/SfVRXqbM098PLO306dkVG64=
+			3ssBWaMuFsGV4qy7g0O0JrMZKXHKh2ipBoi397EZxIY=
 			</data>
 		</dict>
 		<key>ShareSDK_JS_Telegram.bundle/Info.plist</key>
@@ -4771,7 +4771,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NJSStWlOPMOSwn1myxFxn0VfLwYmlMFRT1rKvge/ujg=
+			gJFkd/Zm9KmML0Zi1yTe8OHfbxLu1ay/jUHgw1cGevE=
 			</data>
 		</dict>
 		<key>WSAPM.bundle/BundleInfo.plist</key>

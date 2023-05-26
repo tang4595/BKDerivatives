@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.vendored_frameworks = 'Library/BKDerivatives.framework'
   s.frameworks = 'SystemConfiguration'
 
-  # 外部依赖
+  #外部依赖
   s.dependency 'CocoaAsyncSocket'
   s.dependency 'Masonry'
   s.dependency 'MJRefresh','3.2.0'
